@@ -1,6 +1,6 @@
 A copy of Michael Forman's awesome "ren-regexp" mass rename utility, since [his
 web site](http://www.michael-forman.com/perl/ren-regexp.html) ([archive.org
-version]http://replay.waybackmachine.org/20090223051758/http://michael-forman.com/perl/ren-regexp.html())
+version](http://replay.waybackmachine.org/20090223051758/http://michael-forman.com/perl/ren-regexp.html))
 seems to have disappeared and finding recent versions of the program seems
 difficult now.
 
