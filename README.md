@@ -10,7 +10,7 @@ would otherwise require repetitive, atomic file operations.
 
 Some examples of usage:
 
-* [http://stackoverflow.com/questions/417916/how-to-do-a-mass-rename/5630594#5630594](http://stackoverflow.com/questions/5630310/mass-replace-characters-in-filenames-from-terminal/5630338#5630338)
+* [http://stackoverflow.com/questions/5630310/mass-replace-characters-in-filenames-from-terminal/5630338#5630338](http://stackoverflow.com/questions/5630310/mass-replace-characters-in-filenames-from-terminal/5630338#5630338)
 * [http://stackoverflow.com/questions/417916/how-to-do-a-mass-rename/5630594#5630594](http://stackoverflow.com/questions/417916/how-to-do-a-mass-rename/5630594#5630594)
 
 Man page:
